@@ -1,0 +1,11 @@
+Flask==2.3.3
+Flask-SQLAlchemy==3.1.1
+Flask-Cors==4.0.0
+gunicorn==21.2.0
+requests==2.31.0
+pyaudio==0.2.13
+SpeechRecognition==3.10.1
+pyttsx3==2.90
+matplotlib==3.8.4
+pandas==2.2.2
+ 
